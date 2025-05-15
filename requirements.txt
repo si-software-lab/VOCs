@@ -1,0 +1,11 @@
+python-docx
+pyfiglet
+colorama
+python-docx
+requests
+bs4
+
+
+
+# fastapi
+# uvicorn
